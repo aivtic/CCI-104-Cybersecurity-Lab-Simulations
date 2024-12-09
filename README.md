@@ -29,6 +29,8 @@ This repository contains all lab setups and guides for creating vulnerable web a
 | Lab 8      | **WackoPicko**                           | A vulnerable website for simulating common web exploits        | [WackoPicko Guide](labs/lab8.md) | Mandatory    |  
 | Lab 9      | **WordPress Vulnerable Setup**           | A deliberately insecure WordPress site with outdated plugins   | [WordPress Guide](labs/lab9.md) | Mandatory    |  
 | Lab 10     | **Altoro Mutual**                        | A vulnerable banking web application for pen testing practice  | [Altoro Mutual Guide](labs/lab10.md) | Mandatory    |  
+| **Lab 11** | **Putting It All Together**              | A beautiful home page to access all the vulnerable apps easily | [Putting It All Together Guide](labs/final.md) | Mandatory    |  
+
 
 ---  
 

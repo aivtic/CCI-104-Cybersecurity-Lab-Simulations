@@ -52,6 +52,6 @@ This repository contains all lab setups and guides for creating vulnerable web a
 
 ## Feedback and Contribution  
 
-We welcome your feedback and contributions to improve this repository. For suggestions or to report issues, please [open an issue](https://github.com/aivtic/Cybersecurity-Lab-Simulations/issues) or email us at resources@icdfa.org.ng.  
+We welcome your feedback and contributions to improve this repository. For suggestions or to report issues, please [open an issue](https://github.com/aivtic/CCI-104-Cybersecurity-Lab-Simulations/issues) or email us at resources@icdfa.org.ng.  
 
 ---  

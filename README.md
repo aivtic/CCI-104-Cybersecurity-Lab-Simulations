@@ -41,7 +41,7 @@ This repository contains all lab setups and guides for creating vulnerable web a
 
 2. Navigate to the directory of the lab you want to set up:  
    ```bash  
-   cd labs/<lab-name>  
+   cd; ls
    ```  
 
 3. Follow the setup instructions in the `README.md` file for the selected lab.  

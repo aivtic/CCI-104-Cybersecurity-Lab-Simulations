@@ -19,16 +19,16 @@ This repository contains all lab setups and guides for creating vulnerable web a
 
 | Lab Number | Vulnerable Web Application               | Description                                                     | Link to Guide                     | Status       |  
 |------------|------------------------------------------|-----------------------------------------------------------------|-----------------------------------|--------------|  
-| Lab 1      | **DVWA (Damn Vulnerable Web Application)** | A PHP/MySQL-based web app designed to be vulnerable for testing | [DVWA Guide](labs/dvwa/README.md) | Mandatory    |  
-| Lab 2      | **OWASP Mutillidae II**                  | A web application for practicing OWASP Top 10 vulnerabilities  | [Mutillidae Guide](labs/mutillidae/README.md) | Mandatory    |  
-| Lab 3      | **bWAPP (Buggy Web Application)**        | A web app that includes over 100 vulnerabilities for practice   | [bWAPP Guide](labs/bwapp/README.md) | Mandatory    |  
-| Lab 4      | **WebGoat**                              | An OWASP-supported platform for teaching web security          | [WebGoat Guide](labs/webgoat/README.md) | Mandatory    |  
-| Lab 5      | **Hackazon**                             | A vulnerable e-commerce site for penetration testing           | [Hackazon Guide](labs/hackazon/README.md) | Mandatory    |  
-| Lab 6      | **Juice Shop**                           | A modern web application for testing web security knowledge    | [Juice Shop Guide](labs/juice_shop/README.md) | Mandatory    |  
-| Lab 7      | **NodeGoat**                             | A Node.js-based vulnerable app to learn security concepts      | [NodeGoat Guide](labs/nodegoat/README.md) | Mandatory    |  
-| Lab 8      | **WackoPicko**                           | A vulnerable website for simulating common web exploits        | [WackoPicko Guide](labs/wackopicko/README.md) | Mandatory    |  
-| Lab 9      | **WordPress Vulnerable Setup**           | A deliberately insecure WordPress site with outdated plugins   | [WordPress Guide](labs/wordpress/README.md) | Mandatory    |  
-| Lab 10     | **Altoro Mutual**                        | A vulnerable banking web application for pen testing practice  | [Altoro Mutual Guide](labs/altoro_mutual/README.md) | Mandatory    |  
+| Lab 1      | **DVWA (Damn Vulnerable Web Application)** | A PHP/MySQL-based web app designed to be vulnerable for testing | [DVWA Guide](labs/lab1.md) | Mandatory    |  
+| Lab 2      | **OWASP Mutillidae II**                  | A web application for practicing OWASP Top 10 vulnerabilities  | [Mutillidae Guide](labs/lab2.md) | Mandatory    |  
+| Lab 3      | **bWAPP (Buggy Web Application)**        | A web app that includes over 100 vulnerabilities for practice   | [bWAPP Guide](labs/lab3.md) | Mandatory    |  
+| Lab 4      | **WebGoat**                              | An OWASP-supported platform for teaching web security          | [WebGoat Guide](labs/lab4.md) | Mandatory    |  
+| Lab 5      | **Hackazon**                             | A vulnerable e-commerce site for penetration testing           | [Hackazon Guide](labs/lab5.md) | Mandatory    |  
+| Lab 6      | **Juice Shop**                           | A modern web application for testing web security knowledge    | [Juice Shop Guide](labs/lab6.md) | Mandatory    |  
+| Lab 7      | **NodeGoat**                             | A Node.js-based vulnerable app to learn security concepts      | [NodeGoat Guide](labs/lab7.md) | Mandatory    |  
+| Lab 8      | **WackoPicko**                           | A vulnerable website for simulating common web exploits        | [WackoPicko Guide](labs/lab8.md) | Mandatory    |  
+| Lab 9      | **WordPress Vulnerable Setup**           | A deliberately insecure WordPress site with outdated plugins   | [WordPress Guide](labs/lab9.md) | Mandatory    |  
+| Lab 10     | **Altoro Mutual**                        | A vulnerable banking web application for pen testing practice  | [Altoro Mutual Guide](labs/lab10.md) | Mandatory    |  
 
 ---  
 
